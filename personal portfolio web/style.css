@@ -1,0 +1,14 @@
+.nav-item .active {
+    color: #F9004D !important;
+    border-bottom-color: #F9004D !important;
+}
+
+.sectionplus a {
+    color: white !important;
+    font-size: large;
+}
+
+.service-icon:hover>i,
+.service-icon:hover>p {
+    color: white !important;
+}
